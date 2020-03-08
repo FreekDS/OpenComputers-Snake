@@ -14,7 +14,7 @@ LUA implementation of the popular snake game for the Minecraft mod [OpenComputer
 
 ## Installation
 ### With internet card
-This program can be installed with the following command if an internet card is installed in you computer.
+This program can be installed with the following command if an internet card is installed on your computer.
 ```
 wget https://raw.githubusercontent.com/FreekDS/OpenComputers-Snake/master/snak.lua snak.lua
 ```
